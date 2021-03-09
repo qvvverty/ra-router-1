@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-router-1/static/css/main.235a66e2.chunk.css",
+    "main.js": "/ra-router-1/static/js/main.66cf5a7e.chunk.js",
+    "main.js.map": "/ra-router-1/static/js/main.66cf5a7e.chunk.js.map",
+    "runtime-main.js": "/ra-router-1/static/js/runtime-main.d55798f6.js",
+    "runtime-main.js.map": "/ra-router-1/static/js/runtime-main.d55798f6.js.map",
+    "static/js/2.1c927ed8.chunk.js": "/ra-router-1/static/js/2.1c927ed8.chunk.js",
+    "static/js/2.1c927ed8.chunk.js.map": "/ra-router-1/static/js/2.1c927ed8.chunk.js.map",
+    "static/js/3.2e077b7f.chunk.js": "/ra-router-1/static/js/3.2e077b7f.chunk.js",
+    "static/js/3.2e077b7f.chunk.js.map": "/ra-router-1/static/js/3.2e077b7f.chunk.js.map",
+    "index.html": "/ra-router-1/index.html",
+    "static/css/main.235a66e2.chunk.css.map": "/ra-router-1/static/css/main.235a66e2.chunk.css.map",
+    "static/js/2.1c927ed8.chunk.js.LICENSE.txt": "/ra-router-1/static/js/2.1c927ed8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d55798f6.js",
+    "static/js/2.1c927ed8.chunk.js",
+    "static/css/main.235a66e2.chunk.css",
+    "static/js/main.66cf5a7e.chunk.js"
+  ]
+}
