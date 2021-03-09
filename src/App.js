@@ -7,7 +7,7 @@ import Menu from './components/Menu';
 
 export default function App() {
   return (
-    <Router>
+    <Router basename="/ra-router-1">
       <div>
         <Menu />
         <div className="page">
